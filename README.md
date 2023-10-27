@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhartiRai111
-- 👀 I’m interested in wed develepment
+- 👀 I’m interested in Java Developer
 - 🌱 I’m currently learning information Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

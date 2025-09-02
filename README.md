@@ -1,9 +1,38 @@
-- 👋 Hi, I’m @BhartiRai111
-- 👀 I’m interested in Java Developer
-- I'm currently completed my diploma in information Technology
-- 🌱 I’m currently learning computer science with artificial intelligence
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, I'm Bharti Rai 👋
+
+💻 Associate Software Developer with 1+ years of experience in Java, Spring Boot, and MySQL.
+🎓 Currently pursuing B.Tech in Computer Science Engineering (AI & ML specialization).
+🚀 Passionate about backend development, problem-solving, and creating impactful software solutions.
+
+---
+
+🛠️ Tech Stack
+
+Languages: Java, SQL, HTML, CSS
+
+Frameworks & Tools: Spring Boot, J2EE, Git, Swing
+
+Databases: MySQL
+
+Other Skills: ERP Software Development, Graphic Design (Figma)
+
+---
+
+📌 Current Projects
+
+🔹 Student Management System (Spring+ hibernate+ AWS)
+
+🔹 Exploring Spring Boot full-stack projects
+
+---
+
+📫 Connect With Me
+
+📧 Email: bhartiraivns235@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/er-bharti-rai-b58454227
+
+💻 GitHub: BhartiRai811
 
 <!---
 BhartiRai111/BhartiRai111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

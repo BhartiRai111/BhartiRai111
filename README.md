@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bharti Rai
 
-### Associate Software Developer | Java & Spring Boot | Full-Stack Development | AI & ML
+### Associate Software Developer | Java & Spring & Next Js. | Full-Stack Development | AI & ML
 
 I’m a Software Developer passionate about building scalable backend systems, full-stack applications, and practical software solutions. I enjoy solving problems, learning modern technologies, and turning ideas into real-world applications.
 
